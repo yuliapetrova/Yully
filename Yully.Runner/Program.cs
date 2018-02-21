@@ -1,4 +1,4 @@
-﻿namespace SampleTestAutomationArchitecture.Runner
+﻿namespace Yully
 {
 	using System;
 
@@ -6,7 +6,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // generation
+			// or
+			// run tests
+			// or
+			// compile reports
         }
     }
 }

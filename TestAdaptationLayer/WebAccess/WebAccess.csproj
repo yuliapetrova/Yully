@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>Yully.WebAccess</RootNamespace>
+    <AssemblyName>Yully.WebAccess</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

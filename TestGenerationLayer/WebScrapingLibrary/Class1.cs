@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace WebScrapingLibrary
+﻿namespace Yully.WebScrapingLibrary
 {
-    public class Class1
+	public class Class1
     {
     }
 }

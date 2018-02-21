@@ -1,4 +1,4 @@
-﻿namespace TestStructureLibrary
+﻿namespace Yully.TestStructureLibrary
 {
     public class Class1
     {

@@ -1,6 +1,6 @@
 ﻿namespace Yully.TestInterfaces
 {
-	public class TestCase : ITestCase
+	public class Requirement : IRequirement
 	{
 		public long Id { get; set; }
 		public string Name { get; set; }

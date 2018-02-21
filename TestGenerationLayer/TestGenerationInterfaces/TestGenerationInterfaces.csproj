@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <RootNamespace>Yully.TestInterfaces</RootNamespace>
-    <AssemblyName>Yully.TestInterfaces</AssemblyName>
+    <RootNamespace>Yully.TestGenerationInterfaces</RootNamespace>
+    <AssemblyName>Yully.TestGenerationInterfaces</AssemblyName>
   </PropertyGroup>
 
 </Project>

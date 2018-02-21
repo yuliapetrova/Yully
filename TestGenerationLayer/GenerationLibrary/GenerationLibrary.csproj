@@ -2,11 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>Yully.GenerationLibrary</RootNamespace>
+    <AssemblyName>Yully.GenerationLibrary</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\TestDefinitionLayer\TestInterfaces\TestInterfaces.csproj" />
     <ProjectReference Include="..\ApiRoutesCollectorLibrary\ApiRoutesCollectorLibrary.csproj" />
+    <ProjectReference Include="..\TestGenerationInterfaces\TestGenerationInterfaces.csproj" />
     <ProjectReference Include="..\WebScrapingLibrary\WebScrapingLibrary.csproj" />
   </ItemGroup>
 

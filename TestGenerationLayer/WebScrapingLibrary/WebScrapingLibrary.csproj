@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>Yully.WebScrapingLibrary</RootNamespace>
+    <AssemblyName>Yully.WebScrapingLibrary</AssemblyName>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestGenerationInterfaces\TestGenerationInterfaces.csproj" />
+  </ItemGroup>
 
 </Project>

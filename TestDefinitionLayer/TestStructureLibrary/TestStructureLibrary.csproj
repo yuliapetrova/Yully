@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>Yully.TestStructureLibrary</RootNamespace>
+    <AssemblyName>Yully.TestStructureLibrary</AssemblyName>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestInterfaces\TestInterfaces.csproj" />
+  </ItemGroup>
 
 </Project>

@@ -1,4 +1,4 @@
-﻿namespace GenerationLibrary
+﻿namespace Yully.GenerationLibrary
 {
     public class Class1
     {

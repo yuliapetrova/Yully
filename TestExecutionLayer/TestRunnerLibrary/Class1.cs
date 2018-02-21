@@ -1,4 +1,4 @@
-﻿namespace TestRunnerLibrary
+﻿namespace Yully.TestRunnerLibrary
 {
     public class Class1
     {

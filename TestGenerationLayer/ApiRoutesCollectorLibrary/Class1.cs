@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace ApiRoutesCollectorLibrary
+﻿namespace Yully.ApiRoutesCollectorLibrary
 {
-    public class Class1
+	public class Class1
     {
     }
 }

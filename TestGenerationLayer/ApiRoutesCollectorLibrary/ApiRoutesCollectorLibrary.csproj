@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>Yully.ApiRoutesCollectorLibrary</RootNamespace>
+    <AssemblyName>Yully.ApiRoutesCollectorLibrary</AssemblyName>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestGenerationInterfaces\TestGenerationInterfaces.csproj" />
+  </ItemGroup>
 
 </Project>
